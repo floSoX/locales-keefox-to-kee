@@ -8,7 +8,7 @@
 
 ## Overview
 
-A script to migrate the locales form [KeeFox](https://github.com/kee-org/KeeFox/) to [Kee](https://github.com/kee-org/browser-addon/)
+A script to migrate the locales from [KeeFox](https://github.com/kee-org/KeeFox/) to [Kee](https://github.com/kee-org/browser-addon/)
 
 ## Copyright and License
 
